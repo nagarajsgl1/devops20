@@ -1,0 +1,4 @@
+first line:
+today we learn git introduction
+second line:
+today learn git & github introduction
